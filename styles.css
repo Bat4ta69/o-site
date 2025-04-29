@@ -2,6 +2,7 @@
 body {
     font-family: Arial, sans-serif; /* Fonte do texto */
     background-color: #d9e5ec; /* Cor de fundo */
+    overflow-x: hidden;
 }
 
 /* Estilizando o contêiner principal */
